@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Raheem</h1>
-<h3 align="center">Software Engineer(.Net)</h3>
+<h3 align="center">Software Engineer(.Net Core Razor Pages , MVC , Web API)</h3>
 
 - 🔭 I’m currently working on [AIU](https://www.aiu.edu/)
 
